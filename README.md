@@ -1,3 +1,6 @@
+---
+output: html_document
+---
 [Exploratory-Data-Analysis](https://github.com/linoh/Exploratory-data-Analysis) Repo
 
 ## Introduction
@@ -94,20 +97,20 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+[plot of Global Active Power](https://github.com/linoh/Exploratory-data-Analysis/blob/master/plot1.png) 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+[plot of Daily Global Active Power ](https://github.com/linoh/Exploratory-data-Analysis/blob/master/plot2.png) 
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+[plot of Energy Sub Metering](https://github.com/linoh/Exploratory-data-Analysis/blob/master/plot3.png) 
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot of Daily Global Active Power, Energy, Voltage and Reactive Power](https://github.com/linoh/Exploratory-data-Analysis/blob/master/plot4.png) 
 
